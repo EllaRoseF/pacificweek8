@@ -131,7 +131,7 @@ footer {
 #homehero {
   background-image: url(images/coast2.jpg);
   background-repeat: no-repeat;
-  background-size: 100% 100%; /* bgz100%100% */
+  background-size: cover; /* bgz */
   height: 300px; /* h300 */
 }
 #yurthero {
